@@ -12,10 +12,19 @@ body {
 }
 
 .margin {
-    padding-top: 50px;
+    padding-top: 10px;
     padding-bottom: 50px;
 }
 
 .parceiros {
     background-color: rgb(88, 202, 93);
+}
+
+.servicos {
+    background-color: rgb(200, 68, 68);
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
 }
